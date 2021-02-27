@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+.titlebox {
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: green;
+}
+
+#title {
+    font-size: 32px
+}
+
+.flex-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    background-color: green;
+}
+
+.flex-container > div {
+    width: 30%;
+    background-color: black;
+    margin: 10px;
+    color:white;
+}
+
+.textbox {
+    padding: 2%;
+}
+
+#logo {
+    width: 100%;
+    height: auto;
+}
+
+#mla {
+    width: 32px;
+    height: auto;
+}
